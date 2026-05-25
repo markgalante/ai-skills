@@ -29,9 +29,9 @@ Use `-a <agent>` to install to a specific tool — replace `<agent>` with your a
 
 Skills from other authors that I find worth installing alongside these.
 
-| Skill | Author | Link | Why it's useful |
-| --- | --- | --- | --- |
-| `grill-me` | [Matt Pocock](https://github.com/mattpocock) | [SKILL.md](https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md) | Tell the agent what you want and it gathers information incrementally until you both understand what it needs to do |
+| Skill | Author | Why it's useful |
+| --- | --- | --- |
+| [`grill-me`](https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md) | [Matt Pocock](https://github.com/mattpocock) | Tell the agent what you want and it gathers information incrementally until you both understand what it needs to do |
 
 ## License
 
