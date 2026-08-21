@@ -25,6 +25,7 @@ Use `-a <agent>` to install to a specific tool — replace `<agent>` with your a
 | --- | --- |
 | [`code-reviewer`](./code-reviewer/SKILL.md) | Smart code review router — detects file types (JS/TS, Python, CI/CD, Docker), delegates to specialist checklists, and runs an interactive review session with author or reviewer mode |
 | [`debugging`](./debugging/SKILL.md) | Collaborative debugging partner — one step at a time, teaching *why* a fix works |
+| [`make-me-understand`](./make-me-understand/SKILL.md) | Manual-only explanation mode — numbered chunks with a specific check-in after each, one-word verdicts on questions, no walls of text |
 
 ## Other useful skills
 
